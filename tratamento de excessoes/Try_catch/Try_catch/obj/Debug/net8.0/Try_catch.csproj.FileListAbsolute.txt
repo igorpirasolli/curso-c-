@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\bin\Debug\net8.0\Try_catch.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\bin\Debug\net8.0\Try_catch.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\bin\Debug\net8.0\Try_catch.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\bin\Debug\net8.0\Try_catch.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\bin\Debug\net8.0\Try_catch.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\Try_catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\Try_catch.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\Try_catch.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\Try_catch.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\Try_catch.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\refint\Try_catch.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\Try_catch.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\Try_catch.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\Try_catch\Try_catch\obj\Debug\net8.0\ref\Try_catch.dll
