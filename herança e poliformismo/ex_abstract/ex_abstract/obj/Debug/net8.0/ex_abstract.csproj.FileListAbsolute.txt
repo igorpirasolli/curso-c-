@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\bin\Debug\net8.0\ex_abstract.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\bin\Debug\net8.0\ex_abstract.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\bin\Debug\net8.0\ex_abstract.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\bin\Debug\net8.0\ex_abstract.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\bin\Debug\net8.0\ex_abstract.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ex_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ex_abstract.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ex_abstract.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ex_abstract.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ex_abstract.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\refint\ex_abstract.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ex_abstract.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ex_abstract.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\herança e poliformismo\ex_abstract\ex_abstract\obj\Debug\net8.0\ref\ex_abstract.dll

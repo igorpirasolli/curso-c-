@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB121C3-5DC4-4DB8-AC8B-FBF47C48EAF5}|heranca\\heranca.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB121C3-5DC4-4DB8-AC8B-FBF47C48EAF5}|heranca\\heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB121C3-5DC4-4DB8-AC8B-FBF47C48EAF5}|heranca\\heranca.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\entidades\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB121C3-5DC4-4DB8-AC8B-FBF47C48EAF5}|heranca\\heranca.csproj|solutionrelative:heranca\\entidades\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB121C3-5DC4-4DB8-AC8B-FBF47C48EAF5}|heranca\\heranca.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\entidades\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB121C3-5DC4-4DB8-AC8B-FBF47C48EAF5}|heranca\\heranca.csproj|solutionrelative:heranca\\entidades\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\entidades\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "heranca\\entidades\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\entidades\\BusinessAccount.cs",
+              "RelativeToolTip": "heranca\\entidades\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:37:51.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\entidades\\Account.cs",
+              "RelativeDocumentMoniker": "heranca\\entidades\\Account.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\entidades\\Account.cs",
+              "RelativeToolTip": "heranca\\entidades\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:24:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\Program.cs",
+              "RelativeDocumentMoniker": "heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\exercicios\\heranca\\heranca\\Program.cs",
+              "RelativeToolTip": "heranca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:37:17.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

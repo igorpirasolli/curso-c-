@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0F30AB-3B2A-4068-83BC-8B31F1700111}|ex_heranca_poli\\ex_heranca_poli.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\entidades\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0F30AB-3B2A-4068-83BC-8B31F1700111}|ex_heranca_poli\\ex_heranca_poli.csproj|solutionrelative:ex_heranca_poli\\entidades\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0F30AB-3B2A-4068-83BC-8B31F1700111}|ex_heranca_poli\\ex_heranca_poli.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\entidades\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0F30AB-3B2A-4068-83BC-8B31F1700111}|ex_heranca_poli\\ex_heranca_poli.csproj|solutionrelative:ex_heranca_poli\\entidades\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0F30AB-3B2A-4068-83BC-8B31F1700111}|ex_heranca_poli\\ex_heranca_poli.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0F30AB-3B2A-4068-83BC-8B31F1700111}|ex_heranca_poli\\ex_heranca_poli.csproj|solutionrelative:ex_heranca_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\entidades\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "ex_heranca_poli\\entidades\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\entidades\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "ex_heranca_poli\\entidades\\OutsourcedEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:21:04.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\entidades\\Employee.cs",
+              "RelativeDocumentMoniker": "ex_heranca_poli\\entidades\\Employee.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\entidades\\Employee.cs",
+              "RelativeToolTip": "ex_heranca_poli\\entidades\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:17:17.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\Program.cs",
+              "RelativeDocumentMoniker": "ex_heranca_poli\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\heran\u00E7a e poliformismo\\ex_heranca_poli\\ex_heranca_poli\\Program.cs",
+              "RelativeToolTip": "ex_heranca_poli\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwC8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:15:50.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
