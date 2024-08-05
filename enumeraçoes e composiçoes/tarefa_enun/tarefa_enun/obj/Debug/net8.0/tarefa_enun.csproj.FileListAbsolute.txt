@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\bin\Debug\net8.0\tarefa_enun.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\bin\Debug\net8.0\tarefa_enun.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\bin\Debug\net8.0\tarefa_enun.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\bin\Debug\net8.0\tarefa_enun.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\bin\Debug\net8.0\tarefa_enun.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\tarefa_enun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\tarefa_enun.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\tarefa_enun.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\tarefa_enun.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\tarefa_enun.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\refint\tarefa_enun.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\tarefa_enun.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\tarefa_enun.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\tarefa_enun\tarefa_enun\obj\Debug\net8.0\ref\tarefa_enun.dll

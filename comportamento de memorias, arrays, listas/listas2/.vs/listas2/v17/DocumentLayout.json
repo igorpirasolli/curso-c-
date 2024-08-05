@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\comportamento de memorias, arrays, listas\\listas2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1952BE53-860A-4F2C-BD21-2466B189FC13}|listas2\\listas2.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\comportamento de memorias, arrays, listas\\listas2\\listas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952BE53-860A-4F2C-BD21-2466B189FC13}|listas2\\listas2.csproj|solutionrelative:listas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\comportamento de memorias, arrays, listas\\listas2\\listas2\\Program.cs",
+              "RelativeDocumentMoniker": "listas2\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\comportamento de memorias, arrays, listas\\listas2\\listas2\\Program.cs",
+              "RelativeToolTip": "listas2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:33:59.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

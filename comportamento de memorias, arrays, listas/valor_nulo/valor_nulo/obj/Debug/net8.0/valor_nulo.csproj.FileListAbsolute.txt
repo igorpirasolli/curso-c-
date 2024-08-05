@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\valor_nulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\valor_nulo.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\valor_nulo.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\valor_nulo.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\bin\Debug\net8.0\valor_nulo.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\bin\Debug\net8.0\valor_nulo.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\bin\Debug\net8.0\valor_nulo.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\bin\Debug\net8.0\valor_nulo.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\bin\Debug\net8.0\valor_nulo.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\valor_nulo.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\refint\valor_nulo.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\valor_nulo.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\valor_nulo.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\valor_nulo\valor_nulo\obj\Debug\net8.0\ref\valor_nulo.dll

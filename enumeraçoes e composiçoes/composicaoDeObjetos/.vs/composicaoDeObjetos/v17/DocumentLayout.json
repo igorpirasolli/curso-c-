@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaodeobjetos\\composicaodeobjetos\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|solutionrelative:composicaodeobjetos\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaodeobjetos\\composicaodeobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|solutionrelative:composicaodeobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaodeobjetos\\composicaodeobjetos\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|solutionrelative:composicaodeobjetos\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaodeobjetos\\composicaodeobjetos\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|solutionrelative:composicaodeobjetos\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaodeobjetos\\composicaodeobjetos\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A76E374-88EF-44BE-8EAB-8E3BA0B5A6FE}|composicaoDeObjetos\\composicaoDeObjetos.csproj|solutionrelative:composicaodeobjetos\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\Enum\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "composicaoDeObjetos\\entities\\Enum\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\Enum\\WorkerLevel.cs",
+              "RelativeToolTip": "composicaoDeObjetos\\entities\\Enum\\WorkerLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:52:30.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\Worker.cs",
+              "RelativeDocumentMoniker": "composicaoDeObjetos\\entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\Worker.cs",
+              "RelativeToolTip": "composicaoDeObjetos\\entities\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:50:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "composicaoDeObjetos\\entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\HourContract.cs",
+              "RelativeToolTip": "composicaoDeObjetos\\entities\\HourContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:46:14.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\Departament.cs",
+              "RelativeDocumentMoniker": "composicaoDeObjetos\\entities\\Departament.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\entities\\Departament.cs",
+              "RelativeToolTip": "composicaoDeObjetos\\entities\\Departament.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:43:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "composicaoDeObjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\composicaoDeObjetos\\composicaoDeObjetos\\Program.cs",
+              "RelativeToolTip": "composicaoDeObjetos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:36:43.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

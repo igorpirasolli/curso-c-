@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\bin\Debug\net8.0\listas.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\bin\Debug\net8.0\listas.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\bin\Debug\net8.0\listas.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\bin\Debug\net8.0\listas.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\bin\Debug\net8.0\listas.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\listas.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\listas.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\listas.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\listas.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\refint\listas.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\listas.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\listas.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\comportamento de memorias, arrays, listas\listas\listas\obj\Debug\net8.0\ref\listas.dll

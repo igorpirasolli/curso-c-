@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3E71AD-05F9-47BC-8542-69D525BA68E1}|enunn\\enunn.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3E71AD-05F9-47BC-8542-69D525BA68E1}|enunn\\enunn.csproj|solutionrelative:enunn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3E71AD-05F9-47BC-8542-69D525BA68E1}|enunn\\enunn.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\entidades\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3E71AD-05F9-47BC-8542-69D525BA68E1}|enunn\\enunn.csproj|solutionrelative:enunn\\entidades\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3E71AD-05F9-47BC-8542-69D525BA68E1}|enunn\\enunn.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\entidades\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3E71AD-05F9-47BC-8542-69D525BA68E1}|enunn\\enunn.csproj|solutionrelative:enunn\\entidades\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\entidades\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "enunn\\entidades\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\entidades\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "enunn\\entidades\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:44:47.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\entidades\\Order.cs",
+              "RelativeDocumentMoniker": "enunn\\entidades\\Order.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\entidades\\Order.cs",
+              "RelativeToolTip": "enunn\\entidades\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:42:33.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\Program.cs",
+              "RelativeDocumentMoniker": "enunn\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\cursoc#\\c# material de apoio\\poo (programa\u00E7ao orientada a objetos)\\enumera\u00E7oes e composi\u00E7oes\\enunn\\enunn\\Program.cs",
+              "RelativeToolTip": "enunn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:40:51.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

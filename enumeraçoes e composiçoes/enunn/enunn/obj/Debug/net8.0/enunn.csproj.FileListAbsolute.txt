@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\bin\Debug\net8.0\enunn.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\bin\Debug\net8.0\enunn.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\bin\Debug\net8.0\enunn.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\bin\Debug\net8.0\enunn.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\bin\Debug\net8.0\enunn.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\enunn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\enunn.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\enunn.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\enunn.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\enunn.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\refint\enunn.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\enunn.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\enunn.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\enumeraçoes e composiçoes\enunn\enunn\obj\Debug\net8.0\ref\enunn.dll
