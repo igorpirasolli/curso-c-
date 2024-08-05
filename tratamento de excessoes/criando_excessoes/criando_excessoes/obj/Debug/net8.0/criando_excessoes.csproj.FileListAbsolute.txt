@@ -1,0 +1,15 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\bin\Debug\net8.0\criando_excessoes.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\bin\Debug\net8.0\criando_excessoes.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\bin\Debug\net8.0\criando_excessoes.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\bin\Debug\net8.0\criando_excessoes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\bin\Debug\net8.0\criando_excessoes.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.sourcelink.json
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\refint\criando_excessoes.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\criando_excessoes.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\tratamento de excessoes\criando_excessoes\criando_excessoes\obj\Debug\net8.0\ref\criando_excessoes.dll

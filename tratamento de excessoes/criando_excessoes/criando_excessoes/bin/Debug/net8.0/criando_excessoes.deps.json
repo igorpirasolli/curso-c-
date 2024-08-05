@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "criando_excessoes/1.0.0": {
+        "runtime": {
+          "criando_excessoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "criando_excessoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
