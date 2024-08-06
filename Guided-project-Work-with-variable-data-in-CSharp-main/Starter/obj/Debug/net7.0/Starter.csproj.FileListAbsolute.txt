@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\ref\Starter.dll

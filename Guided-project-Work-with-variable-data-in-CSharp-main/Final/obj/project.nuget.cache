@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfeLsbYYDlExQRK4JdLuGDwqJ5HBZAcuy91P0TQN1Lc3TwM6vXk0DzptwpUSr52tiIxeqFb9PnfF+SQVmpPyMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igorf\\OneDrive\\Área de Trabalho\\cursos\\cursoc#\\learns c#\\Guided-project-Work-with-variable-data-in-CSharp-main\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\igorf\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\igorf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\igorf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
