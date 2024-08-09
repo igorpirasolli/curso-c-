@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\bin\Debug\net8.0\usingg.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\bin\Debug\net8.0\usingg.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\bin\Debug\net8.0\usingg.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\bin\Debug\net8.0\usingg.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\bin\Debug\net8.0\usingg.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\usingg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\usingg.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\usingg.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\usingg.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\usingg.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\refint\usingg.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\usingg.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\usingg.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\usingg\usingg\obj\Debug\net8.0\ref\usingg.dll

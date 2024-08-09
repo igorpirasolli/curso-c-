@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\bin\Debug\net8.0\streamWriter.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\bin\Debug\net8.0\streamWriter.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\bin\Debug\net8.0\streamWriter.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\bin\Debug\net8.0\streamWriter.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\bin\Debug\net8.0\streamWriter.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\streamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\streamWriter.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\streamWriter.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\streamWriter.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\streamWriter.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\refint\streamWriter.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\streamWriter.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\streamWriter.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\cursoc#\c# material de apoio\poo (programaçao orientada a objetos)\trabalhando com arquivos\streamWriter\streamWriter\obj\Debug\net8.0\ref\streamWriter.dll
