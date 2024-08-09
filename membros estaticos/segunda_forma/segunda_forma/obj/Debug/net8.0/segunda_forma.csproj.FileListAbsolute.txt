@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\bin\Debug\net8.0\segunda_forma.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\bin\Debug\net8.0\segunda_forma.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\bin\Debug\net8.0\segunda_forma.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\bin\Debug\net8.0\segunda_forma.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\bin\Debug\net8.0\segunda_forma.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\segunda_forma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\segunda_forma.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\segunda_forma.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\segunda_forma.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\segunda_forma.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\refint\segunda_forma.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\segunda_forma.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\segunda_forma.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\c# material de apoio\poo (programaçao orientada a objetos)\exercicios de poo\segunda_forma\segunda_forma\obj\Debug\net8.0\ref\segunda_forma.dll
