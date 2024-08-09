@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\bin\Debug\net8.0\empresa.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\bin\Debug\net8.0\empresa.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\bin\Debug\net8.0\empresa.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\bin\Debug\net8.0\empresa.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\bin\Debug\net8.0\empresa.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\empresa.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\empresa.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\empresa.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\empresa.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\refint\empresa.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\empresa.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\empresa.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\empresa\empresa\obj\Debug\net8.0\ref\empresa.dll

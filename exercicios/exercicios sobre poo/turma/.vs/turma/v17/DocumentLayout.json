@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF323B76-637F-4810-8414-B974B87A5009}|turma\\turma.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF323B76-637F-4810-8414-B974B87A5009}|turma\\turma.csproj|solutionrelative:turma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF323B76-637F-4810-8414-B974B87A5009}|turma\\turma.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\entidades\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF323B76-637F-4810-8414-B974B87A5009}|turma\\turma.csproj|solutionrelative:turma\\entidades\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF323B76-637F-4810-8414-B974B87A5009}|turma\\turma.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF323B76-637F-4810-8414-B974B87A5009}|turma\\turma.csproj|solutionrelative:turma\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\entidades\\Turma.cs",
+              "RelativeDocumentMoniker": "turma\\entidades\\Turma.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\entidades\\Turma.cs",
+              "RelativeToolTip": "turma\\entidades\\Turma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:50:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\entidades\\Aluno.cs",
+              "RelativeDocumentMoniker": "turma\\entidades\\Aluno.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\entidades\\Aluno.cs",
+              "RelativeToolTip": "turma\\entidades\\Aluno.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:49:29.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\Program.cs",
+              "RelativeDocumentMoniker": "turma\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\turma\\turma\\Program.cs",
+              "RelativeToolTip": "turma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:48:20.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\bin\Debug\net8.0\contabancaria.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\bin\Debug\net8.0\contabancaria.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\bin\Debug\net8.0\contabancaria.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\bin\Debug\net8.0\contabancaria.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\bin\Debug\net8.0\contabancaria.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\contabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\contabancaria.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\contabancaria.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\contabancaria.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\contabancaria.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\refint\contabancaria.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\contabancaria.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\contabancaria.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\contabancaria\contabancaria\obj\Debug\net8.0\ref\contabancaria.dll

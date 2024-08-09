@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\bin\Debug\net8.0\pessoa.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\bin\Debug\net8.0\pessoa.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\bin\Debug\net8.0\pessoa.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\bin\Debug\net8.0\pessoa.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\bin\Debug\net8.0\pessoa.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\pessoa.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\pessoa.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\pessoa.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\pessoa.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\refint\pessoa.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\pessoa.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\pessoa.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\pessoa\pessoa\obj\Debug\net8.0\ref\pessoa.dll

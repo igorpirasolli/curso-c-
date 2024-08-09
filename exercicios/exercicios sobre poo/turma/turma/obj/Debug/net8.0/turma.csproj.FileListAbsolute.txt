@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\bin\Debug\net8.0\turma.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\bin\Debug\net8.0\turma.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\bin\Debug\net8.0\turma.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\bin\Debug\net8.0\turma.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\bin\Debug\net8.0\turma.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\turma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\turma.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\turma.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\turma.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\turma.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\refint\turma.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\turma.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\turma.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\turma\turma\obj\Debug\net8.0\ref\turma.dll

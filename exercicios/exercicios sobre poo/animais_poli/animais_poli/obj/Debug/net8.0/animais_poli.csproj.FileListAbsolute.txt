@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\bin\Debug\net8.0\animais_poli.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\bin\Debug\net8.0\animais_poli.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\bin\Debug\net8.0\animais_poli.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\bin\Debug\net8.0\animais_poli.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\bin\Debug\net8.0\animais_poli.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\animais_poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\animais_poli.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\animais_poli.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\animais_poli.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\animais_poli.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\refint\animais_poli.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\animais_poli.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\animais_poli.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animais_poli\animais_poli\obj\Debug\net8.0\ref\animais_poli.dll

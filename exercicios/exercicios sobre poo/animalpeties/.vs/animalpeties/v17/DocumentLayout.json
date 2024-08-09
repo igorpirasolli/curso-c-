@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|solutionrelative:animalpeties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\petapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|solutionrelative:animalpeties\\entidades\\petapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|solutionrelative:animalpeties\\entidades\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C9C242-B20C-4443-86F7-D8FB5361FB0D}|animalpeties\\animalpeties.csproj|solutionrelative:animalpeties\\entidades\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Run.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\Run.cs",
+              "RelativeDocumentMoniker": "animalpeties\\entidades\\Run.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\Run.cs",
+              "RelativeToolTip": "animalpeties\\entidades\\Run.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:27:48.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetApp.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\PetApp.cs",
+              "RelativeDocumentMoniker": "animalpeties\\entidades\\PetApp.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\PetApp.cs",
+              "RelativeToolTip": "animalpeties\\entidades\\PetApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:02:16.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\Animal.cs",
+              "RelativeDocumentMoniker": "animalpeties\\entidades\\Animal.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\entidades\\Animal.cs",
+              "RelativeToolTip": "animalpeties\\entidades\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:45:11.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\Program.cs",
+              "RelativeDocumentMoniker": "animalpeties\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\cursos\\exercicios\\exercicios sobre poo\\animalpeties\\animalpeties\\Program.cs",
+              "RelativeToolTip": "animalpeties\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:44:11.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

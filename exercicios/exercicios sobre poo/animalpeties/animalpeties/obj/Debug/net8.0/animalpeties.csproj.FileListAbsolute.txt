@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\bin\Debug\net8.0\animalpeties.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\bin\Debug\net8.0\animalpeties.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\bin\Debug\net8.0\animalpeties.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\bin\Debug\net8.0\animalpeties.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\bin\Debug\net8.0\animalpeties.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\animalpeties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\animalpeties.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\animalpeties.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\animalpeties.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\animalpeties.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\refint\animalpeties.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\animalpeties.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\animalpeties.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\animalpeties\animalpeties\obj\Debug\net8.0\ref\animalpeties.dll

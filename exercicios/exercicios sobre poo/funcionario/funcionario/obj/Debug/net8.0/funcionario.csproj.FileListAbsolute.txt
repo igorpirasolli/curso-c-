@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\bin\Debug\net8.0\funcionario.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\bin\Debug\net8.0\funcionario.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\bin\Debug\net8.0\funcionario.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\bin\Debug\net8.0\funcionario.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\bin\Debug\net8.0\funcionario.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\funcionario.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\funcionario.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\funcionario.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\funcionario.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\refint\funcionario.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\funcionario.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\funcionario.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\cursos\exercicios\exercicios sobre poo\funcionario\funcionario\obj\Debug\net8.0\ref\funcionario.dll
