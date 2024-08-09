@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|solutionrelative:ex_com_interface\\servicos\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\rentalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|solutionrelative:ex_com_interface\\servicos\\rentalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|solutionrelative:ex_com_interface\\servicos\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|solutionrelative:ex_com_interface\\entidades\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|solutionrelative:ex_com_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|solutionrelative:ex_com_interface\\entidades\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643465DC-70A7-44DF-8F59-CE77BA63EC1A}|ex_com_interface\\ex_com_interface.csproj|solutionrelative:ex_com_interface\\entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItaxService.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\ItaxService.cs",
+              "RelativeDocumentMoniker": "ex_com_interface\\servicos\\ItaxService.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\ItaxService.cs",
+              "RelativeToolTip": "ex_com_interface\\servicos\\ItaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:49:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalServices.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\RentalServices.cs",
+              "RelativeDocumentMoniker": "ex_com_interface\\servicos\\RentalServices.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\RentalServices.cs",
+              "RelativeToolTip": "ex_com_interface\\servicos\\RentalServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:48:52.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrazilTaxServices.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\BrazilTaxServices.cs",
+              "RelativeDocumentMoniker": "ex_com_interface\\servicos\\BrazilTaxServices.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\servicos\\BrazilTaxServices.cs",
+              "RelativeToolTip": "ex_com_interface\\servicos\\BrazilTaxServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:48:04.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ex_com_interface\\entidades\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\Vehicle.cs",
+              "RelativeToolTip": "ex_com_interface\\entidades\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:46:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\Invoice.cs",
+              "RelativeDocumentMoniker": "ex_com_interface\\entidades\\Invoice.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\Invoice.cs",
+              "RelativeToolTip": "ex_com_interface\\entidades\\Invoice.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:46:08.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\CarRental.cs",
+              "RelativeDocumentMoniker": "ex_com_interface\\entidades\\CarRental.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\entidades\\CarRental.cs",
+              "RelativeToolTip": "ex_com_interface\\entidades\\CarRental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:45:37.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\Program.cs",
+              "RelativeDocumentMoniker": "ex_com_interface\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\interfaces\\ex_com_interface\\ex_com_interface\\Program.cs",
+              "RelativeToolTip": "ex_com_interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:38:45.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
