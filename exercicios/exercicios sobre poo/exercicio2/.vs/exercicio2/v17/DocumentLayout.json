@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\entidades\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\entidades\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\midia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\entidades\\midia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|c:\\users\\igorf\\onedrive\\\u00E1rea de trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806132E-A2FE-44F0-8187-F944163C67E1}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "exercicio2\\entidades\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Biblioteca.cs",
+              "RelativeToolTip": "exercicio2\\entidades\\Biblioteca.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:00:48.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Musica.cs",
+              "RelativeDocumentMoniker": "exercicio2\\entidades\\Musica.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Musica.cs",
+              "RelativeToolTip": "exercicio2\\entidades\\Musica.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:58:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Filme.cs",
+              "RelativeDocumentMoniker": "exercicio2\\entidades\\Filme.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Filme.cs",
+              "RelativeToolTip": "exercicio2\\entidades\\Filme.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:55:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Livro.cs",
+              "RelativeDocumentMoniker": "exercicio2\\entidades\\Livro.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Livro.cs",
+              "RelativeToolTip": "exercicio2\\entidades\\Livro.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:52:53.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Midia.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Midia.cs",
+              "RelativeDocumentMoniker": "exercicio2\\entidades\\Midia.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\entidades\\Midia.cs",
+              "RelativeToolTip": "exercicio2\\entidades\\Midia.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:48:25.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\igorf\\OneDrive\\\u00C1rea de Trabalho\\poo\\exercicios\\exercicios sobre poo\\exercicio2\\exercicio2\\Program.cs",
+              "RelativeToolTip": "exercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:46:26.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
