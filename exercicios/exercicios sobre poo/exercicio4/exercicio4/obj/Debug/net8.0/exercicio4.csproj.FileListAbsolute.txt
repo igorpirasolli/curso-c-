@@ -1,0 +1,15 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.sourcelink.json
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\refint\exercicio4.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\poo\exercicios\exercicios sobre poo\exercicio4\exercicio4\obj\Debug\net8.0\ref\exercicio4.dll
